@@ -1,0 +1,57 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+  }
+  
+.mainwarrper{
+    width: 600px;
+    background-color:white;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+
+      }
+
+.title{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    height:10vh;
+    width:100%;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+    font-size:  0.7em;
+    
+}
+.inputclass input{
+    margin-top: 10px;
+    width: 98%;
+    height:5vh;
+    background-color:azure;
+    border-radius: 10px;
+}
+.addtodobutton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.addtodobutton button{
+    background-color: gold;
+    
+}
+.listoftodo{
+    display: flex;
+    justify-content: space-between;
+
+}
+.listoftodo li{
+    list-style: none;
+    font-size: 1.2em;
+    color:black
+}
+.handleinput{
+    width:80%;
+}
