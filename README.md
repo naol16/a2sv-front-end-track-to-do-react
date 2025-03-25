@@ -1,6 +1,8 @@
 
 Copy
 # 📝 To-Do List App (React + TypeScript)
+screeen shot
+you can get   the screen shot  under   to do list/public
 
 A responsive to-do list application built with **React** and **TypeScript**, featuring task management with **add, edit, and delete** functionality.
 
@@ -52,6 +54,5 @@ Deleting a Task
 Click the delete button (🗑️) next to the task
 Confirm deletion in the dialog (if implemented)
 
-screeen shot
-you can get   the screen shot  under   to do list/public
+
 
